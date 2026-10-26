@@ -1,5 +1,5 @@
 // 1. Твой API Ключ и базовый URL
-const API_KEY = '';
+const API_KEY = 'cd9e80739cd54436812160155263006';
 const BASE_URL = 'https://api.weatherapi.com/v1';
 
 // 2. Находим элементы интерфейса в DOM
